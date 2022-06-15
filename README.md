@@ -2,14 +2,15 @@
 <br>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=👋Hi,%20there!&fontSize=70&animation=fadeIn&fontAlignY=30&desc=ChanHoeChoi%20GitHub%20Profile&descAlignY=54&descAlign=75)
 
-<div align="center">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=cks8483&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
-
+<div align="left">
+    
 ### 😉 cks8483 😉
-  Email : cks8483@naver.com <br> 
-  Tech Blog : https://velog.io/@cks8483 <br>
+  **Email** : cks8483@naver.com <br> 
+  **Tech Blog** : https://velog.io/@cks8483 <br>
   
 ### 🛠 Tech Stack 🛠
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
