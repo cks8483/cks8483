@@ -5,7 +5,7 @@
 
     
 ### 😉 cks8483 😉
-  **Email** : cks8483@naver.com <br> 
+  **Email** : cks8483@gmail.com <br> 
   **Tech Blog** : https://velog.io/@cks8483 <br>
   
   
